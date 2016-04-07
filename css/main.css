@@ -1,3 +1,96 @@
+header{
+	background-image:url("../img/hero.jpg");
+	font-size: 100%;
+	min-height: 800px;
+}
+
+.Menu li{
+	display: inline-table;
+	position: relative;
+	left: 40em;
+	font-size: 20px;
+	padding-left: 10px;
+}
+
+a{
+	text-decoration: none;
+	color: white;
+	font-family: verdana;
+}
+.Menu h1{
+	color: white;
+	font-size: 30px;
+}
+
+.fa-star-half-o{
+	position: relative;
+	top: 30px;
+	right: 25px;
+	color: white;
+}
+.Launch h1{
+	font-size: 60px;
+	text-align: center;
+    padding: 200px 0px 60px 0px;
+}
+.Vivamus h4{
+	text-align: center;
+	color: white;
+}
+.boton1{
+	padding: 30px;
+	/*position: relative;
+	top: 300px;
+	left: 600px;*/
+	height: 40px;
+	font-size: 20px;
+	color: white;
+}
+.boton2{
+	/*position: relative;
+	top: 260px;
+	left: 800px;
+	bottom: 800px;*/
+	font-size: 20px;
+	color: white;
+}
+.botones{
+	text-align: center;
+	padding: 60px 0;
+}
+
+.botones input{
+	height: 50px;
+	width: 140px;
+	color: #F5E7E7;
+	background-color: #483F3F;
+}
+.larger{
+	font-size: xx-large;
+	color: #167279;
+}
+.texto1 h1{
+	text-align: center;
+	font-size: 15px;
+	padding: 80px 0px 80px 0px;
+}
+.icon{
+	text-align: center;
+}
+ .More{
+	background-image:url(../img/laptop-features.png);
+	font-size: 100%;
+	min-height: 500px;
+	text-align: center;
+	padding-top: 40px;
+	padding-bottom: 50px;
+}
+.Morer h1{
+	text-align: center;
+}
+
+/*Lorena*/
+
 * {font-family: Open Sans;}
 
 body {background-color: #f4f4f4;}
@@ -68,4 +161,3 @@ ul.menu li a:hover {background-color: #18919E; color:white;}
 
 .bg-white-op {background-color: #565656; opacity: 0.5; width: 100%; padding: 5px;
 	}
-
