@@ -1,0 +1,71 @@
+* {font-family: Open Sans;}
+
+body {background-color: #f4f4f4;}
+.pd-2 {
+	padding: 2%;
+}
+
+.up {font-size: 26px;}
+.text-blue {color: #313945;}
+.boton {background-color: #F1F0F0; padding: 15px; width: 100%; color: #313945;}
+.boton-blue {background-color: #313945; padding: 15px; width: 100%; color: #f4f4f4;}
+.boton-cyan {background-color: #349FA4; padding: 15px; width: 100%; color: #f4f4f4;}
+
+
+
+
+#centro {margin-left: 10%; margin-top: 15%;}
+
+/*Portfolio*/
+.pt-nav {margin-left: 20%;}
+.port {padding: 20px;}
+.bg-white {background-color: white;}
+
+ul.menu {
+ 
+  margin: 0;
+  padding: 0;
+  overflow: hidden;}
+
+ul.menu li {
+border: 2px solid #f4f4f4;
+  float: left;
+  width: 15%;
+  list-style: none;}
+
+ul.menu li a {color: rgb(83, 88, 95);
+  display: block;
+  padding: .3em;
+  text-decoration: none;} 
+
+ul.menu li a:hover {background-color: #18919E; color:white;}
+
+.frame-b {border: 10px solid #f4f4f4; 
+	background-color: white; padding: 10px; }
+
+.ctr {margin-left: 1.6%;}
+.iz {margin-left: 38%;}
+
+/*Call to action*/
+
+.cta {background: url(../img/background/city.jpg); min-height: 500px;
+	
+	}
+
+.bg-black {background-color: black; min-height: 500px; 
+	width:100%; opacity: 0.5; z-index: 2; position: absolute;}
+.bloque {z-index: 3; position: relative;}
+
+.lista {list-style: none;}
+.lista li{border-bottom: 1px solid #E2E2E2; padding:15px;}
+
+.circ {border-radius: 100%; width: 10%;}
+
+.contact-us {background-image: url(../img/background/contactus.jpg); 
+	min-height: 500px; z-index: 1;	}
+
+.pie {background-color: #212121; width:100%; min-height: 50px; font-size: 11px;}
+
+.bg-white-op {background-color: #565656; opacity: 0.5; width: 100%; padding: 5px;
+	}
+
